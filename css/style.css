@@ -174,3 +174,12 @@ img {
         width: 93%;
       }
 }
+
+
+ @media (min-width: 769px) and (max-width: 1160px){
+    .container {
+        width: 800px;
+        margin: 0 auto;
+        padding: 0 20px;
+      }
+} 
